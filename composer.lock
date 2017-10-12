@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b2255c9bc8535a1b47f89abfd237e86e",
+    "content-hash": "72dd76f12a9e5d28a5cf8d87e4374665",
     "packages": [
         {
             "name": "aptoma/twig-markdown",
@@ -137,16 +137,16 @@
         },
         {
             "name": "martijnc/php-csp",
-            "version": "dev-master",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Martijnc/php-csp.git",
-                "reference": "c0a0d4873688c15043982a96749a0252a0a55e04"
+                "reference": "e02bf6efe8705df55168140371873475df13060d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Martijnc/php-csp/zipball/c0a0d4873688c15043982a96749a0252a0a55e04",
-                "reference": "c0a0d4873688c15043982a96749a0252a0a55e04",
+                "url": "https://api.github.com/repos/Martijnc/php-csp/zipball/e02bf6efe8705df55168140371873475df13060d",
+                "reference": "e02bf6efe8705df55168140371873475df13060d",
                 "shasum": ""
             },
             "require": {
@@ -180,7 +180,7 @@
                 "security",
                 "xss"
             ],
-            "time": "2016-03-01 10:51:42"
+            "time": "2015-11-27T09:08:40+00:00"
         },
         {
             "name": "michelf/php-markdown",
@@ -4790,7 +4790,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "martijnc/php-csp": 20,
         "phpmd/phpmd": 0
     },
     "prefer-stable": false,
